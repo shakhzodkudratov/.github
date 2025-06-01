@@ -8,8 +8,8 @@
   <a href="https://shakhzod.me/"><img src="https://img.shields.io/badge/Website--_.svg?style=social" alt="Website"></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shakhzodkudratov&count_private=true&show_icons=true&line_height=40&theme=gruvbox" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakhzodkudratov&langs_count=5&hide=html,cmake&theme=gruvbox" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shakhzodkudratov&count_private=true&show_icons=true&line_height=40&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakhzodkudratov&langs_count=5&hide=html,cmake&theme=gruvbox)
 
 <details>
   <summary>WakaTime stats</summary>
