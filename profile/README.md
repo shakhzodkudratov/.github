@@ -8,7 +8,4 @@
   <a href="https://shakhzod.me/"><img src="https://img.shields.io/badge/Website--_.svg?style=social" alt="Website"></a>
 </p>
 
-<details>
-  <summary>WakaTime stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shakhzodkudratov&theme=gruvbox" alt="WakaTime stats">
-</details>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shakhzodkudratov&theme=gruvbox&langs_count=8" alt="WakaTime stats">
